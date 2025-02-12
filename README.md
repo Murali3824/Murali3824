@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GUDELLI MURALI</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A young-dumb 🤓 Full Stack developer from India</h3>
 
 - 🌱 I’m currently learning **Next.js, DSA**
 
