@@ -50,6 +50,8 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
 ### **DevOps & Tools**
@@ -63,29 +65,30 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
 
 ## 🎯 Featured Projects
 
-### 🛒 **E-Commerce MERN Stack**
+### 🏋️ **Fitness Microservices** | [GitHub Repo](https://github.com/Murali3824/fitness-microservices)
+Microservices-based fitness tracking application with multiple services, Docker containerization, and scalable architecture.
+- **Tech**: Java Spring Boot, Docker, Microservices Architecture, REST APIs
+- **Highlights**: Independent services, Container orchestration, Scalability
+
+### 💼 **CLIFF SERVICES** | [GitHub Repo](https://github.com/Murali3824/CLIFFSERVICES)
+Enterprise-level service management platform with comprehensive backend and frontend integration.
+- **Tech**: MERN Stack, Node.js, Express, MongoDB, React
+- **Highlights**: Full-stack solution, Service management, User authentication
+
+### 📊 **Question Paper Generator** | [GitHub Repo](https://github.com/Murali3824/QUESTION-PAPER-GENERATOR)
+Intelligent system for generating randomized question papers with difficulty levels and smart categorization.
+- **Tech**: MERN Stack, Algorithm Optimization, Dynamic content generation
+- **Highlights**: AI-driven randomization, Difficulty classification, Automated paper generation
+
+### 🛒 **E-Commerce MERN Stack** | [GitHub Repo](https://github.com/Murali3824/E-COMMERCE-MERNSTACK-PROJECT)
 Full-featured e-commerce platform with user authentication, product catalog, shopping cart, and payment integration.
 - **Tech**: React, Node.js, Express, MongoDB, Tailwind CSS
+- **Highlights**: Complete MERN implementation, Payment gateway, Admin panel
 
-### 💰 **ExpenSave - Expense Tracker**
-Personal finance management application for tracking income and expenses with analytics.
-- **Tech**: MERN Stack, Charts.js
-
-### ✅ **Task Manager Application**
-Collaborative task management tool with real-time updates and user collaboration features.
-- **Tech**: MERN Stack, Socket.io
-
-### 🏋️ **Fitness Microservices**
-Microservices-based fitness tracking application with Docker containerization.
-- **Tech**: Java Spring Boot, Docker, Microservices Architecture
-
-### 📊 **Question Paper Generator**
-Intelligent system for generating question papers with randomization and difficulty levels.
-- **Tech**: MERN Stack, Algorithm Optimization
-
-### 🎨 **Portfolio Website**
-Modern, responsive portfolio showcasing projects and skills.
-- **Tech**: React, Tailwind CSS, HTML5, CSS3
+### 🧩 **Rubik Cube Solver** | [GitHub Repo](https://github.com/Murali3824/Rubik-Cube-Solver)
+Advanced algorithm-based Rubik's Cube solver with visual representation and step-by-step solution guide.
+- **Tech**: JavaScript, Algorithm Optimization, 3D Visualization
+- **Highlights**: Efficient solving algorithms, Interactive UI, Educational tool
 
 ---
 
@@ -108,10 +111,12 @@ Modern, responsive portfolio showcasing projects and skills.
 ## 🎓 Expertise & Certifications
 
 ✅ **Full Stack Web Development** - MERN Stack Master  
-✅ **Java & Spring Boot** - Backend Development  
+✅ **Java & Spring Boot** - Backend Development & Microservices  
 ✅ **Data Structures & Algorithms** - Problem Solving  
 ✅ **Responsive Web Design** - Frontend Excellence  
-✅ **Docker & Containerization** - DevOps Basics  
+✅ **Docker & Containerization** - DevOps & Deployment  
+✅ **Microservices Architecture** - Scalable Systems  
+✅ **SQL & NoSQL Databases** - PostgreSQL, MySQL, MongoDB  
 
 ---
 
@@ -121,6 +126,7 @@ Modern, responsive portfolio showcasing projects and skills.
 - 📚 Deep diving into **Data Structures & Algorithms**
 - 🐳 Exploring **Docker & Kubernetes** for container orchestration
 - ⚡ Building scalable **Microservices** architectures
+- 🧠 Advanced problem-solving techniques
 
 ---
 
