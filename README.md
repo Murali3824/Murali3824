@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building scalable applications using modern technologies. With a strong foundation in **MERN Stack** and expanding expertise in **Java Spring Boot**, I create robust solutions that solve real-world problems.
+I'm a passionate **Full Stack Developer** with expertise in building scalable applications using modern technologies. With a strong foundation in **MERN Stack** and expanding expertise in **Java Spring Boot**, I'm committed to crafting efficient, user-centric solutions and continuously improving my problem-solving skills through Data Structures and Algorithms.
 
 - 🔥 **Full Stack Development**: MERN Stack (React, Node.js, Express, MongoDB)
 - ☕ **Java Backend**: Spring Boot, Microservices, REST APIs
@@ -25,9 +25,9 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
 ## 📞 Connect with Me
 
 <p align="left">
-<a href="https://twitter.com/hsm_murali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsm_murali" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/gudellimurali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudellimurali" height="40" width="50" /></a>
-<a href="mailto:muralinetha38@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="40" width="50" /></a>
+<a href="https://twitter.com/hsm_murali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsm_murali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gudellimurali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudellimurali" height="30" width="40" /></a>
+<a href="mailto:muralinetha38@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 ---
@@ -57,6 +57,11 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
 
 ## 🎯 Featured Projects
 
+### 🛒 **ShopFlow Microservices** | [GitHub Repo](https://github.com/Murali3824/shopflow-microservices)
+Scalable e-commerce platform built with microservices architecture for order management, inventory, and payments.
+- **Tech**: Java Spring Boot, Docker, Microservices Architecture, REST APIs, PostgreSQL
+- **Highlights**: Independent services, Container orchestration, Event-driven architecture
+
 ### 🏋️ **Fitness Microservices** | [GitHub Repo](https://github.com/Murali3824/fitness-microservices)
 Microservices-based fitness tracking application with multiple services, Docker containerization, and scalable architecture.
 - **Tech**: Java Spring Boot, Docker, Microservices Architecture, REST APIs
@@ -72,15 +77,15 @@ Intelligent system for generating randomized question papers with difficulty lev
 - **Tech**: MERN Stack, Algorithm Optimization, Dynamic content generation
 - **Highlights**: AI-driven randomization, Difficulty classification, Automated paper generation
 
-### 🛒 **E-Commerce MERN Stack** | [GitHub Repo](https://github.com/Murali3824/E-COMMERCE-MERNSTACK-PROJECT)
-Full-featured e-commerce platform with user authentication, product catalog, shopping cart, and payment integration.
-- **Tech**: React, Node.js, Express, MongoDB, Tailwind CSS
-- **Highlights**: Complete MERN implementation, Payment gateway, Admin panel
-
 ### 🧩 **Rubik Cube Solver** | [GitHub Repo](https://github.com/Murali3824/Rubik-Cube-Solver)
 Advanced algorithm-based Rubik's Cube solver with visual representation and step-by-step solution guide.
 - **Tech**: JavaScript, Algorithm Optimization, 3D Visualization
 - **Highlights**: Efficient solving algorithms, Interactive UI, Educational tool
+
+### 🛍️ **E-Commerce MERN Stack** | [GitHub Repo](https://github.com/Murali3824/E-COMMERCE-MERNSTACK-PROJECT)
+Full-featured e-commerce platform with user authentication, product catalog, shopping cart, and payment integration.
+- **Tech**: React, Node.js, Express, MongoDB, Tailwind CSS
+- **Highlights**: Complete MERN implementation, Payment gateway, Admin panel
 
 ---
 
