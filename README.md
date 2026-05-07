@@ -25,9 +25,17 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
 ## 📞 Connect with Me
 
 <p align="left">
-<a href="https://twitter.com/hsm_murali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsm_murali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gudellimurali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudellimurali" height="30" width="40" /></a>
-<a href="mailto:muralinetha38@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://twitter.com/hsm_murali" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/gudellimurali" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <a href="mailto:muralinetha38@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
 </p>
 
 ---
