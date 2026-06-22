@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building scalable applications using modern technologies. With a strong foundation in **MERN Stack** and expanding expertise in **Java Spring Boot**, I'm committed to crafting efficient, user-centric solutions and continuously improving my problem-solving skills through Data Structures and Algorithms.
+I'm a passionate **Full Stack Developer** with expertise in building scalable applications using modern technologies. With a strong foundation in **MERN Stack** and expanding expertise in **Java S[...]"
 
 - 🔥 **Full Stack**: MERN Stack (React, Node.js, Express, MongoDB)
 - ☕ **Java Backend**: Spring Boot, Microservices, REST APIs
@@ -24,7 +24,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
 ## 📞 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/hsm_murali"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/hsm_murali"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="https://linkedin.com/in/gudellimurali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:muralinetha38@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
@@ -35,6 +35,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
 
 **Languages**
 <p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -45,6 +46,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
 </p>
 
@@ -88,3 +90,4 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ap
   <img src="https://komarev.com/ghpvc/?username=Murali3824&style=flat-square&color=blue" alt="Profile Views" />
   &nbsp;⭐ Feel free to fork or star my repositories! 💫
 </p>
+
